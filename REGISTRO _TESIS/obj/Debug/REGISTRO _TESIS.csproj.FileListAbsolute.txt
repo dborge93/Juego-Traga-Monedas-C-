@@ -1,0 +1,27 @@
+c:\users\salita 01\documents\visual studio 2015\Projects\REGISTRO _TESIS\REGISTRO _TESIS\bin\Debug\REGISTRO _TESIS.exe.config
+c:\users\salita 01\documents\visual studio 2015\Projects\REGISTRO _TESIS\REGISTRO _TESIS\bin\Debug\REGISTRO _TESIS.exe
+c:\users\salita 01\documents\visual studio 2015\Projects\REGISTRO _TESIS\REGISTRO _TESIS\bin\Debug\REGISTRO _TESIS.pdb
+c:\users\salita 01\documents\visual studio 2015\Projects\REGISTRO _TESIS\REGISTRO _TESIS\obj\Debug\REGISTRO _TESIS.csprojResolveAssemblyReference.cache
+c:\users\salita 01\documents\visual studio 2015\Projects\REGISTRO _TESIS\REGISTRO _TESIS\obj\Debug\REGISTRO__TESIS.Form1.resources
+c:\users\salita 01\documents\visual studio 2015\Projects\REGISTRO _TESIS\REGISTRO _TESIS\obj\Debug\REGISTRO__TESIS.Properties.Resources.resources
+c:\users\salita 01\documents\visual studio 2015\Projects\REGISTRO _TESIS\REGISTRO _TESIS\obj\Debug\REGISTRO _TESIS.csproj.GenerateResource.Cache
+c:\users\salita 01\documents\visual studio 2015\Projects\REGISTRO _TESIS\REGISTRO _TESIS\obj\Debug\REGISTRO _TESIS.exe
+c:\users\salita 01\documents\visual studio 2015\Projects\REGISTRO _TESIS\REGISTRO _TESIS\obj\Debug\REGISTRO _TESIS.pdb
+C:\Users\SALITA 07\Desktop\REGISTRO _TESIS\REGISTRO _TESIS\bin\Debug\REGISTRO _TESIS.exe.config
+C:\Users\SALITA 07\Desktop\REGISTRO _TESIS\REGISTRO _TESIS\obj\Debug\REGISTRO _TESIS.exe
+C:\Users\SALITA 07\Desktop\REGISTRO _TESIS\REGISTRO _TESIS\obj\Debug\REGISTRO _TESIS.pdb
+C:\Users\SALITA 07\Desktop\REGISTRO _TESIS\REGISTRO _TESIS\bin\Debug\REGISTRO _TESIS.exe
+C:\Users\SALITA 07\Desktop\REGISTRO _TESIS\REGISTRO _TESIS\bin\Debug\REGISTRO _TESIS.pdb
+C:\Users\SALITA 07\Desktop\REGISTRO _TESIS\REGISTRO _TESIS\obj\Debug\REGISTRO _TESIS.csprojResolveAssemblyReference.cache
+C:\Users\SALITA 07\Desktop\REGISTRO _TESIS\REGISTRO _TESIS\obj\Debug\REGISTRO__TESIS.Form1.resources
+C:\Users\SALITA 07\Desktop\REGISTRO _TESIS\REGISTRO _TESIS\obj\Debug\REGISTRO__TESIS.Properties.Resources.resources
+C:\Users\SALITA 07\Desktop\REGISTRO _TESIS\REGISTRO _TESIS\obj\Debug\REGISTRO _TESIS.csproj.GenerateResource.Cache
+C:\Users\Lab14\Desktop\REGISTRO _TESIS\REGISTRO _TESIS\bin\Debug\REGISTRO _TESIS.exe.config
+C:\Users\Lab14\Desktop\REGISTRO _TESIS\REGISTRO _TESIS\obj\Debug\REGISTRO _TESIS.exe
+C:\Users\Lab14\Desktop\REGISTRO _TESIS\REGISTRO _TESIS\obj\Debug\REGISTRO _TESIS.pdb
+C:\Users\Lab14\Desktop\REGISTRO _TESIS\REGISTRO _TESIS\bin\Debug\REGISTRO _TESIS.exe
+C:\Users\Lab14\Desktop\REGISTRO _TESIS\REGISTRO _TESIS\bin\Debug\REGISTRO _TESIS.pdb
+C:\Users\Lab14\Desktop\REGISTRO _TESIS\REGISTRO _TESIS\obj\Debug\REGISTRO _TESIS.csprojResolveAssemblyReference.cache
+C:\Users\Lab14\Desktop\REGISTRO _TESIS\REGISTRO _TESIS\obj\Debug\REGISTRO__TESIS.Form1.resources
+C:\Users\Lab14\Desktop\REGISTRO _TESIS\REGISTRO _TESIS\obj\Debug\REGISTRO__TESIS.Properties.Resources.resources
+C:\Users\Lab14\Desktop\REGISTRO _TESIS\REGISTRO _TESIS\obj\Debug\REGISTRO _TESIS.csproj.GenerateResource.Cache
